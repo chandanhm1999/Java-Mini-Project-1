@@ -19,4 +19,5 @@ Java_Mini_Project Created with Data Structures &amp; Algorithms
   There are two types of data structures. 
    * 1)Linear Data structure 
    * 2)NON Linear Data Structure!
-[Mini Project](https://user-images.githubusercontent.com/109410990/225549813-b0a3dd6f-5a1d-4a6c-ace0-0b50d24966a4.png)
+![Mini Project](https://user-images.githubusercontent.com/109410990/225550615-30829e49-b270-450b-9412-06195f560f01.png)
+
